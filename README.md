@@ -26,32 +26,51 @@ Threads Clone is a modern and fully-featured social media platform that allows u
 ## 🚀 Features
 
 **User Authentication and Authorization:**
+
 - Secure user registration and login.
 - Secure authentication using JWT tokens.
+
 **User Profiles:**
+  
 - User profile customization with avatars and cover photos.
 - Display user information such as username, bio, and location.
+  
 **Create and Share Threads:**
+
 - Create and publish text-based threads.
 - Support for rich text formatting and media embedding.
+
 **Real-time Updates:**
+
 - Real-time thread updates and notifications.
 - Instant notifications for likes, and comments.
+
 **Follow and Connect:**
+
 - Follow other users to see their threads.
 - Explore threads from followed users.
+
 **Engagement Features:**
+
 - Like and dislike threads.
 - Comment on threads.
+
 **Media Upload and Sharing:**
+
 - Upload and share images and videos.
 - Media gallery for each user.
+
 **Dark Mode and Themes:**
+
 - Dark mode and customizable themes.
 - Enhance user experience with theme options.
+
 **Data Security and Privacy:**
+
 - Secure Password encryption and storage.
+
 **Scalability and Performance:**
+  
 - Scalable infrastructure to handle a growing user base.
 - Optimization for fast load times.
 
