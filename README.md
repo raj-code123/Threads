@@ -3,7 +3,7 @@ Develop Threads app that skyrocketed to 100 million sign-ups in less than 5 days
 
 Threads Clone is a modern and fully-featured social media platform that allows users to connect, share, and engage with their friends and the wider community. Built using the popular MERN (MongoDB, Express.js, React, Node.js) stack, this platform provides a seamless and interactive user experience.
 
-[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀
+[Visit Now](https://youtu.be/X4xxBGQnhnE?si=TecksTDPEvH2RtnD) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
